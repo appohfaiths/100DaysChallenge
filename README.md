@@ -1,5 +1,7 @@
-# 100DaysOfCode
+# #100DaysOfCode
 Sharing tips, resources and doses of motivation to help you start and finish the 100 Days of Code Challenge.
+
+Follow me on [Twitter](https://twitter.com/ivybarley) for more content to help you get started and keep going in tech.
 
 | Day  | Theme    | Tip   |
 | :------------- | :---------- | :----------- |
