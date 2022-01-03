@@ -1,5 +1,4 @@
 # #100DaysChallenge
-Hi, this is Ivy Barley. 
 
 I created this repo to share tips, resources and doses of motivation to help you start and finish the 100 Days Challenge, whether you want to learn software engineering, UI/UX, data science, data engineering, open source, etc.
 
