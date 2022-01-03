@@ -2,9 +2,9 @@
 
 I created this repo to share tips, resources and doses of motivation to help you start and finish the 100 Days Challenge, whether you want to learn software engineering, UI/UX design, data science, data engineering, open source, etc.
 
-Don't forget to follow me on [Twitter](https://twitter.com/ivybarley) for more tech, career and lifestyle content.
-
 [Join](https://join.slack.com/t/100dayschallenge2022/shared_invite/zt-10zjhpfyr-T1H_3s37GUKkoVkOWYrKLw) the Slack community for this Challenge.
+
+Don't forget to follow me on [Twitter](https://twitter.com/ivybarley) for more tech, career and lifestyle content.
 
 | Day  | Theme    | Tip   |
 | :------------- | :---------- | :----------- |
