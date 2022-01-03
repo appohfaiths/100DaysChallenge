@@ -3,6 +3,8 @@ Hi, this is Ivy Barley. I created this repo to share tips, resources and doses o
 
 Don't forget to follow me on [Twitter](https://twitter.com/ivybarley) for more tech, career and lifestyle content.
 
+[Join](https://join.slack.com/t/100dayschallenge2022/shared_invite/zt-10zjhpfyr-T1H_3s37GUKkoVkOWYrKLw) the Slack community for this Challenge.
+
 | Day  | Theme    | Tip   |
 | :------------- | :---------- | :----------- |
 | 1 | Interest in Challenge | You are here because you want to be a part of the #100DaysOfCode Challenge. You probably would like to use today to think through your motivation for wanting to participate in this Challenge. Is it to gain new skills to apply for a new role, ask for promotion, build projects, start or company or have fun? Whatever reason you have is valid. Welcome to the Challenge. |
