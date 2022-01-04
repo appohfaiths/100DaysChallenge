@@ -1,4 +1,4 @@
-# #100DaysChallenge
+# #100DaysChallenge for Techies
 
 I created this repo to share tips, resources and doses of motivation to help you start and finish the 100 Days Challenge, whether you want to learn software engineering, UI/UX design, data science, data engineering, open source, etc.
 
