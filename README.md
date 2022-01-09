@@ -6,6 +6,8 @@ I created this repo to share tips, resources and doses of motivation to help you
 
 Don't forget to follow me on [Twitter](https://twitter.com/ivybarley) for more tech, career and lifestyle content. Also feel free to tag me in your daily projects and lessons during this Challenge.
 
+## Week 1
+
 | Day  | Theme    | Tip   |
 | :------------- | :---------- | :----------- |
 | 1 | Interest in Challenge | You are here because you want to be a part of the #100DaysChallenge. You probably would like to use today to think through your motivation for wanting to participate in this Challenge. Is it to gain new skills to apply for a new role, ask for a promotion, build projects, start a company or have fun? Whatever reason you have is valid. Welcome to the Challenge. |
@@ -15,6 +17,11 @@ Don't forget to follow me on [Twitter](https://twitter.com/ivybarley) for more t
 | 5 | Popular Coding Websites | These are some of the popular websites with coding resources: https://freecodecamp.com, https://w3schools.com, https://codecademy.com, https://sololearn.com, https://khanacademy.org, https://edx.org, https://theodinproject.com, https://coursera.org and https://ocw.mit.edu. |
 | 6 | No Computer? | Ideally, you'd want to have a personal computer to use for your tech lessons & projects. However, some circumstances may not allow that. You're still not left behind. You can use mobile apps like Sololearn, Mimo, Udemy, DataCamp, etc  to learn. |
 | 7 | When to Build Projects | Should you try to learn everything before building projects or build projects while you're learning? I suggest building projects (no matter how small) as you learn to appreciate the practical application of the course material.|
+
+
+## Week 2
+| Day  | Theme    | Tip   |
+| :------------- | :---------- | :----------- |
 | 8 | Joining Communities | When you join the right tech communities, you become part of a support system, get access to resources, mentors and opportunities to give back. Read [this post](https://www.linkedin.com/posts/ivybarley_techcommunities-techjourney-networking-activity-6869188044382191616-AZTK) about the importance of tech communities and recommendations of which ones you can join. |
 | 9 | Remote Pair Programming | Have you considered remote pair programming? With this, you can share your screen with someone to collaboratively design, build and review projects. Anyone, in any stage of their learning journey can participate in pair programming. |
 
