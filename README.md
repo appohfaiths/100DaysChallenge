@@ -16,5 +16,7 @@ Don't forget to follow me on [Twitter](https://twitter.com/ivybarley) for more t
 | 6 | No Computer? | Ideally, you'd want to have a personal computer to use for your tech lessons & projects. However, some circumstances may not allow that. You're still not left behind. You can use mobile apps like Sololearn, Mimo, Udemy, DataCamp, etc  to learn. |
 | 7 | When to Build Projects | Should you try to learn everything before building projects or build projects while you're learning? I suggest building projects (no matter how small) as you learn to appreciate the practical application of the course material.|
 | 8 | Joining Communities | When you join the right tech communities, you become part of a support system, get access to resources, mentors and opportunities to give back. Read [this post](https://www.linkedin.com/posts/ivybarley_techcommunities-techjourney-networking-activity-6869188044382191616-AZTK) about the importance of tech communities and recommendations of which ones you can join. |
+| 9 | Remote Pair Programming | Have you considered remote pair programming? With this, you can share your screen with someone to collaboratively design, build and review projects. Anyone, in any stage of their learning journey can participate in pair programming. |
+
 
 
