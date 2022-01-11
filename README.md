@@ -25,6 +25,7 @@ Don't forget to follow me on [Twitter](https://twitter.com/ivybarley) for more t
 | 8 | Joining Communities | When you join the right tech communities, you become part of a support system, get access to resources, mentors and opportunities to give back. Read [this post](https://www.linkedin.com/posts/ivybarley_techcommunities-techjourney-networking-activity-6869188044382191616-AZTK) about the importance of tech communities and recommendations of which ones you can join. |
 | 9 | Remote Pair Programming | Have you considered remote pair programming? With this, you can share your screen with someone to collaboratively design, build and review projects. Anyone, in any stage of their learning journey can participate in pair programming. |
 | 10 | Show Your Work | I know some people are comfortable with sharing their projects publicly while others are not. Sharing your projects and learning progress publicly using platforms like GitHub, LinkedIn, Twitter and Medium helps with accountability and consistency, and exposes you to potential recruiters and mentors.|
+| 11 | Git and GitHub | On the topic of openly sharing your work, GitHub is one of the perfect places to do so. Not only do you get to show your work, you can contribute to other people's projects. If you're new to Git and GitHub, read this article: https://www.freecodecamp.org/news/git-and-github-for-beginners/.|
 
 
 
