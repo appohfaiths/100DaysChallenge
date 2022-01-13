@@ -27,5 +27,6 @@ Don't forget to follow me on [Twitter](https://twitter.com/ivybarley) for more t
 | 10 | Show Your Work | I know some people are comfortable with sharing their projects publicly while others are not. Sharing your projects and learning progress publicly using platforms like GitHub, LinkedIn, Twitter and Medium helps with accountability and consistency, and exposes you to potential recruiters and mentors.|
 | 11 | Git and GitHub | On the topic of openly sharing your work, GitHub is one of the perfect places to do so. Not only do you get to show your work, you can contribute to other people's projects. If you're new to Git and GitHub, read this article: https://www.freecodecamp.org/news/git-and-github-for-beginners/.|
 | 12 | Screen Recordings | Aside sharing screenshots and links, you could do screen recordings of your projects using an app like OBS Studio and share on platforms like LinkedIn. Video content does well on LinkedIn and could help increase your visibility on the platform.|
+| 13 | Twitter Spaces | People are gaining knowledge, hearing of job opportunities, meeting new people and getting access to resources by participating in Twitter Spaces. This is a personal and professional development opportunity right at your fingertips. If interested, RSVP for my tech and career Twitter Spaces at http://spaceswithivy.com. |
 
 
