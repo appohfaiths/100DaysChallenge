@@ -29,6 +29,8 @@ Don't forget to follow me on [Twitter](https://twitter.com/ivybarley) for more t
 | 12 | Screen Recordings | Aside sharing screenshots and links, you could do screen recordings of your projects using an app like OBS Studio and share on platforms like LinkedIn. Video content does well on LinkedIn and could help increase your visibility on the platform.|
 | 13 | Twitter Spaces | People are gaining knowledge, hearing of job opportunities, meeting new people and getting access to resources by participating in Twitter Spaces. This is a personal and professional development opportunity right at your fingertips. If interested, RSVP for my tech and career Twitter Spaces at http://spaceswithivy.com. |
 | 14 | Taking Notes | One thing you should do in your learning journey is to take notes that you can refer to in the future. Some note-taking apps like Notion have features for adding images, boards, code blocks that support multiple programming languages, wikis, etc. My favorite note-taking app is Notion. What about you?|
+| 15 | Create Your Cheat Sheet |On the topic of taking notes while you learn, you can even create your own cheat sheets for quick referencing. You can create cheat sheets using https://cheatography.com/. They also have over 4,000 free cheat sheets and quick references.|
+
 
 
 
