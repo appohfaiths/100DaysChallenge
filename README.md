@@ -31,7 +31,13 @@ Don't forget to follow me on [Twitter](https://twitter.com/ivybarley) for more t
 | 14 | Taking Notes | One thing you should do in your learning journey is to take notes that you can refer to in the future. Some note-taking apps like Notion have features for adding images, boards, code blocks that support multiple programming languages, wikis, etc. My favorite note-taking app is Notion. What about you?|
 
 ## Week 3
+| Day  | Theme    | Tip   |
+| :------------- | :---------- | :----------- |
 | 15 | Create Your Cheat Sheet |On the topic of taking notes while you learn, you can even create your own cheat sheets for quick referencing. You can create cheat sheets using https://cheatography.com/. They also have over 4,000 free cheat sheets and quick references.|
+| 16 | Google or Bing it | You don't know everything and that's okay. No one does anyway. If you get stuck on a problem for too long or need further explanation on a topic, Google or Bing it. Someone is very likely to have been in your shoes before.|
+
+
+
 
 
 
