@@ -34,7 +34,7 @@ Don't forget to follow me on [Twitter](https://twitter.com/ivybarley) for more t
 | Day  | Theme    | Tip   |
 | :------------- | :---------- | :----------- |
 | 15 | Create Your Cheat Sheet |On the topic of taking notes while you learn, you can even create your own cheat sheets for quick referencing. You can create cheat sheets using https://cheatography.com/. They also have over 4,000 free cheat sheets and quick references.|
-| 16 | Google or Bing it | You don't know everything and that's okay. No one does anyway. If you get stuck on a problem for too long or need further explanation on a topic, Google or Bing it. Someone is very likely to have been in your shoes before.|
+| 16 | Google or Bing it | You don't know everything and that's okay. No one does anyway. If it's taking you forever to solve a problem or need further explanation on a topic, Google or Bing it. Someone is very likely to have been in your shoes before.|
 
 
 
