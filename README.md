@@ -37,6 +37,6 @@ Don't forget to follow me on [Twitter](https://twitter.com/ivybarley) for more t
 | 16 | Google or Bing it | You don't know everything and that's okay. No one does anyway. If it's taking you forever to solve a problem or you need further explanation on a topic, Google or Bing it. Someone is very likely to have been in your shoes before.|
 | 17 | Stack Overflow | Are you getting stuck because of the stack you chose? Go to [StackOverflow](https://stackoverflow.com/) to learn from others' experiences with similar challenges. It can get overwhelming at the beginning but you'd get the hang of it as times goes on.|
 | 18 | subreddits | If you are looking for online communities around what you are learning, consider joining subreddits on those topics. There are subreddits on almost every area of tech you could think of and the people in these communities are usually supportive.|
-
+| 19 | Twitter Topics | Day 19: Do you know about the Topics feature on Twitter? With this, you can personalize your timeline by following topics that are of interest to you. There are diverse technical and non-technical topics you can follow to curate your timeline as you learn.|
 
 
