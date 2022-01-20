@@ -38,5 +38,4 @@ Don't forget to follow me on [Twitter](https://twitter.com/ivybarley) for more t
 | 17 | Stack Overflow | Are you getting stuck because of the stack you chose? Go to [StackOverflow](https://stackoverflow.com/) to learn from others' experiences with similar challenges. It can get overwhelming at the beginning but you'd get the hang of it as times goes on.|
 | 18 | subreddits | If you are looking for online communities around what you are learning, consider joining subreddits on those topics. There are subreddits on almost every area of tech you could think of and the people in these communities are usually supportive.|
 | 19 | Twitter Topics | Do you know about the Topics feature on Twitter? With this, you can personalize your timeline by following topics that are of interest to you. There are diverse technical and non-technical topics you can follow to curate your timeline as you learn.|
-| 20 | text | text.|
-
+| 20 | Teach Someone Else | Did you recently learn how APIs work? Or the importance of customer empathy when building products? Try teaching someone something you learnt this week. Research shows that explaining something to other people helps us understand it better. |
