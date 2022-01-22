@@ -41,7 +41,10 @@ Don't forget to follow me on [Twitter](https://twitter.com/ivybarley) for more t
 | 20 | Teach Someone Else | Did you recently learn how APIs work? Or the importance of customer empathy when building products? Try teaching someone something you learnt this week. Research shows that explaining something to other people helps us understand it better. |
 | 21 | 3-week Check | It's been 3 weeks since we started the 2022 #100DaysChallenge to learn new tech skills and openly share our journey online. People are learning UI/UX design, data engineering, product management, technical writing, software development, etc. How has it been so far? |
 
-
+## Week 4
+| Day  | Theme    | Tip   |
+| :------------- | :---------- | :----------- |
+| 22 | Text | text |
 
 
 
