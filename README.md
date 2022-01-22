@@ -44,7 +44,4 @@ Don't forget to follow me on [Twitter](https://twitter.com/ivybarley) for more t
 ## Week 4
 | Day  | Theme    | Tip   |
 | :------------- | :---------- | :----------- |
-| 22 | Text | text |
-
-
-
+| 22 | Python Projects | If you are learning Python, these are 25 beginner friendly Python projects you can start working on today: https://www.freecodecamp.org/news/python-projects-for-beginners/ |
