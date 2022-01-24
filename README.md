@@ -46,5 +46,5 @@ Don't forget to follow me on [Twitter](https://twitter.com/ivybarley) for more t
 | :------------- | :---------- | :----------- |
 | 22 | Python Projects | If you are learning Python, these are 25 beginner friendly Python projects you can start working on today: https://www.freecodecamp.org/news/python-projects-for-beginners/. |
 | 23 | Product Management Books |If you are learning product management, this is a visual guide of the best product management books as well as an article describing why each book was recommended: https://www.delibr.com/post/visual-guide-to-the-best-books-on-product-management. |
-| 24 | Consistency |When developing a new habit like learning a new skill, consistency is key. You don't always have to feel like learning but still show up, even if it's for a few minutes. Don't underestimate the power of consistency.|
+| 24 | Consistency |When developing a new habit like learning a new skill, consistency is key. You don't always have to feel like learning but still show up anyway, even if it's for a few minutes. Don't underestimate the power of consistency.|
 
