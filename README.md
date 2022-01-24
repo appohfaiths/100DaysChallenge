@@ -1,6 +1,6 @@
 # #100DaysChallenge for Techies
 
-I created this repo to share tips, resources and doses of motivation to help you start and finish the 100 Days Challenge, whether you want to learn software engineering, UI/UX design, data science, data engineering, open source, etc.
+I created this repo to share tips, resources and doses of motivation to help you start and finish the 100 Days Learning Challenge, whether you want to learn software engineering, UI/UX design, data science, data engineering, open source, etc.
 
 [Join](https://join.slack.com/t/100dayschallenge2022/shared_invite/zt-10zjhpfyr-T1H_3s37GUKkoVkOWYrKLw) the Slack community for this Challenge to meet like-minded people and collaborate on projects.
 
