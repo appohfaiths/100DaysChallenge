@@ -50,3 +50,4 @@ Don't forget to follow me on [Twitter](https://twitter.com/ivybarley) for more t
 | 25 | Follow Tech Professionals | I saw a tweet that said that the only 2 tech professionals you'd see on Twitter are programmers and UI/UX designers. False. 😂 On social media platforms like Twitter, you'd find people who specialize in different areas of tech (both technical and non-technical) who share a lot of useful resources. Follow them.|
 | 26 | Web Development Roadmaps | If you are learning web development, these developer roadmaps will be useful: Frontend (https://roadmap.sh/frontend), Backend (https://roadmap.sh/backend), Angular (https://roadmap.sh/angular), React (https://roadmap.sh/react).|
 | 27 | DevOps Roadmap | If you are learning DevOps, this roadmap will be useful: https://roadmap.sh/devops. |
+| 28 | Music Playlist | Do you listen to music while learning? Do you have a learning playlist? What kind of music works best for you? 💃🏾 |
