@@ -51,3 +51,4 @@ Don't forget to follow me on [Twitter](https://twitter.com/ivybarley) for more t
 | 26 | Web Development Roadmaps | If you are learning web development, these developer roadmaps will be useful: Frontend (https://roadmap.sh/frontend), Backend (https://roadmap.sh/backend), Angular (https://roadmap.sh/angular), React (https://roadmap.sh/react).|
 | 27 | DevOps Roadmap | If you are learning DevOps, this roadmap will be useful: https://roadmap.sh/devops. |
 | 28 | Music Playlist | Do you listen to music while learning? Do you have a learning playlist? What kind of music works best for you? 💃🏾 |
+| 29 | Android Development Roadmap |  If you are learning Android development, this roadmap will be useful: https://roadmap.sh/android.🏾 |
