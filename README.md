@@ -55,4 +55,4 @@ Don't forget to follow me on [Twitter](https://twitter.com/ivybarley) for more t
 ## Week 5
 | Day  | Theme    | Tip   |
 | :------------- | :---------- | :----------- |
-| 29 | Android Development Roadmap |  If you are learning Android development, this roadmap will be useful: https://roadmap.sh/android|
+| 29 | Android Development Roadmap |  If you are learning Android development, this roadmap will be useful: https://roadmap.sh/android.|
