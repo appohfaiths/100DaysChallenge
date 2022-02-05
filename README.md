@@ -62,3 +62,10 @@ Don't forget to follow me on [Twitter](https://twitter.com/ivybarley) for more t
 | 33 | UI/UX Design Bookmarks | If you are learning UI/UX design, https://www.evernote.design/ has loads of design resources, inspiration and tips.|
 | 34 | Data Science Competitions and Community| For those learning data science, you will find competitions, hackathons and courses to participate in for free on https://www.kaggle.com/ and https://zindi.africa/. There are also public datasets, notebooks and discussion forums. |
 | 35 | Discord and Slack Communities| Are you part of any helpful Discord and Slack communities for the skills you are learning? If not, reach out to people in the industry for recommendations. If you're part of this Challenge, a good starting point will be the Slack community we set up. Join [here](http://bit.ly/100days2022).|
+
+## Week 6
+| Day  | Theme    | Tip   |
+| :------------- | :---------- | :----------- |
+| 36 | Life Happens |  If you have skipped some of the days for learning, don't be too hard on yourself. Life happens. Whenever you are ready to come back to it, you are welcome to continue the journey. 🤗|
+
+
