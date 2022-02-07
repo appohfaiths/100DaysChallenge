@@ -67,4 +67,5 @@ Don't forget to follow me on [Twitter](https://twitter.com/ivybarley) for more t
 | Day  | Theme    | Tip   |
 | :------------- | :---------- | :----------- |
 | 36 | Life Happens |  If you have skipped some of the days for learning, don't be too hard on yourself. Life happens. Whenever you are ready to come back to it, you are welcome to continue the journey. 🤗|
-| 37 | VS Code Plugin| Some devs use tools like Code Time (a VS Code plugin) to protect code time and stay in flow. This helps them to log their daily learning progress, metrics, and milestones.|
+| 37 | VS Code Plugin | Some devs use tools like Code Time (a VS Code plugin) to protect code time and stay in flow. This helps them to log their daily learning progress, metrics, and milestones.|
+| 38 | Finding a Mentor | A great place to find a mentor is https://adplist.org. |
