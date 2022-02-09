@@ -70,3 +70,4 @@ Don't forget to follow me on [Twitter](https://twitter.com/ivybarley) for more t
 | 37 | VS Code Plugin | Some devs use tools like Code Time (a VS Code plugin) to protect code time and stay in flow. This helps them to log their daily learning progress, metrics, and milestones.|
 | 38 | Finding a Mentor | A great place to find a mentor is https://adplist.org. |
 | 39 | Video-based Learning Resources | Have you been using any video-based tech learning resources that you like? Do you have any favorite YouTube channels for learning? |
+| 40 | Data Structures and Algorithms| If you are learning data structures and algorithms, check out this thread with more than 40 learning resources: https://twitter.com/mdjunaidap/status/1468535275299115010. |
