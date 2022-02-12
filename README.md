@@ -73,3 +73,7 @@ Don't forget to follow me on [Twitter](https://twitter.com/ivybarley) for more t
 | 40 | Data Structures and Algorithms| If you are learning data structures and algorithms, check out this thread with more than 40 learning resources: https://twitter.com/mdjunaidap/status/1468535275299115010. |
 | 41 | Cybersecurity Learning Path | Interested in Cybersecurity? The TryHackMe Pre Security Learning Path will give you the pre-requisite technical knowledge to get started: https://tryhackme.com/path/outline/presecurity. |
 | 42 | Microsoft’s 30 Days to Learn It | Microsoft’s 30 Days to Learn It can help you build skills in AI, DevOps, cloud development, Microsoft 365, low code, IoT, data science, and more: https://developer.microsoft.com/en-us/offers/30-days-to-learn-it. |
+
+## Week 7
+| Day  | Theme    | Tip   |
+| :------------- | :---------- | :----------- |
