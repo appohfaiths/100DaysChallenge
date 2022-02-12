@@ -77,3 +77,4 @@ Don't forget to follow me on [Twitter](https://twitter.com/ivybarley) for more t
 ## Week 7
 | Day  | Theme    | Tip   |
 | :------------- | :---------- | :----------- |
+| 43 | You Are Doing Great| This is just a reminder that you are doing great. Keep investing in yourself. |
