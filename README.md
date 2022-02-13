@@ -77,4 +77,6 @@ Don't forget to follow me on [Twitter](https://twitter.com/ivybarley) for more t
 ## Week 7
 | Day  | Theme    | Tip   |
 | :------------- | :---------- | :----------- |
-| 43 | You Are Doing Great| This is just a reminder that you are doing great. Keep investing in yourself. |
+| 43 | You Are Doing Great | This is just a reminder that you are doing great. Keep investing in yourself. |
+| 44 | Basic SQL Cheat Sheet | If you are learning SQL, this cheat sheet has some of the basic SQL syntax: https://learnsql.com/blog/sql-basics-cheat-sheet/sql-basics-cheat-sheet-a3.pdf. |
+
