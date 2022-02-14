@@ -80,5 +80,5 @@ Don't forget to follow me on [Twitter](https://twitter.com/ivybarley) for more t
 | 43 | You Are Doing Great | This is just a reminder that you are doing great. Keep investing in yourself. |
 | 44 | Basic SQL Cheat Sheet | If you are learning SQL, this cheat sheet has some of the basic SQL syntax: https://learnsql.com/blog/sql-basics-cheat-sheet/sql-basics-cheat-sheet-a3.pdf. |
 | 45 | Winning Together | Take some time today to reach out to someone else who's on this learning journey to share words of encouragement. We're winning together this year.|
-| 46 | A Design Career on Uxcel | Access an extensive library of interactive UI/UX design courses, test your design skills and browse a UI/UX job board dedicated only to designers on https://uxcel.com/. |
+| 46 | A Design Career on Uxcel | Access a library of interactive UI/UX design courses, test your design skills and browse a UI/UX job board dedicated only to designers on https://uxcel.com/. |
 
