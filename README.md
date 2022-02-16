@@ -81,4 +81,5 @@ Don't forget to follow me on [Twitter](https://twitter.com/ivybarley) for more t
 | 44 | Basic SQL Cheat Sheet | If you are learning SQL, this cheat sheet has some of the basic SQL syntax: https://learnsql.com/blog/sql-basics-cheat-sheet/sql-basics-cheat-sheet-a3.pdf. |
 | 45 | Winning Together | Take some time today to reach out to someone else who's on this learning journey to share words of encouragement. We're winning together this year.|
 | 46 | A Design Career on Uxcel | Get access to a library of interactive UI/UX design courses, test your design skills and browse a UI/UX job board dedicated only to designers on https://uxcel.com/. |
+| 47 | Writing Articles | One way to document your learning journey is to write articles on a schedule that works for you. You can use these articles to explain concepts you're learning. If you forget something, you can refer to your articles, and others could even benefit from them. |
 
