@@ -82,4 +82,4 @@ Don't forget to follow me on [Twitter](https://twitter.com/ivybarley) for more t
 | 45 | Winning Together | Take some time today to reach out to someone else who's on this learning journey to share words of encouragement. We're winning together this year.|
 | 46 | A Design Career on Uxcel | Get access to a library of interactive UI/UX design courses, test your design skills and browse a UI/UX job board dedicated only to designers on https://uxcel.com/. |
 | 47 | Writing Articles | One way to document your learning journey is to write articles on a schedule that works for you. You can use these articles to explain concepts you're learning. If you forget something, you can refer to your articles, and others could even benefit from them. |
-
+| 48 | MIT Deep Learning Videos | If you are learning Deep Learning, this MIT video playlist on Introduction to Deep Learning is a great resource: https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI. | 
