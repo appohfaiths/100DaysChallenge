@@ -88,4 +88,5 @@ Don't forget to follow me on [Twitter](https://twitter.com/ivybarley) for more t
 ## Week 8
 | Day  | Theme    | Tip   |
 | :------------- | :---------- | :----------- |
+| 50 | Halfway Through | Congrats! We are halfway through with the 100 Days Learning Challenge. How has the learning journey been for you? Any wins? Any challenges? Any tips? Feel free to share in the Slack community. |
 
