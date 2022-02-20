@@ -89,4 +89,4 @@ Don't forget to follow me on [Twitter](https://twitter.com/ivybarley) for more t
 | Day  | Theme    | Tip   |
 | :------------- | :---------- | :----------- |
 | 50 | Halfway Through | Congrats! We are halfway through with the 100 Days Learning Challenge. How has the learning journey been for you? Any wins? Any challenges? Any tips? Feel free to share in the Slack community. |
-
+| 51 | Career Karma | On Career Karma (https://careerkarma.com/), you'll find bootcamps, career guides, scholarships, resources, community, mentors, coaches and live events to help you navigate your tech career. |
