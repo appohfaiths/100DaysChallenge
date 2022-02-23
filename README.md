@@ -92,3 +92,5 @@ Don't forget to follow me on [Twitter](https://twitter.com/ivybarley) for more t
 | 51 | Career Karma | On Career Karma (https://careerkarma.com/), you'll find bootcamps, career guides, scholarships, resources, community, mentors, coaches and live events to help you navigate your tech career. |
 | 52 | CSS Exercises and Quizzes| If you are learning CSS, these are some exercises and quizzes to help you practice: https://careerkarma.com/blog/css-exercises/.|
 | 53 | Review Your Goals | On the first day of this Challenge, we did some goal-setting for our learning journey. If you haven't reviewed your goals recently, this is a good time to do so. If you haven't set learning goals yet, this is a good time to do so. |
+| 54 | Cisco Online Courses | The Cisco Networking Academy (https://www.netacad.com/courses/all-courses) has free courses in Networking, Internet of Things, Cybersecurity, Programming and others. |
+
