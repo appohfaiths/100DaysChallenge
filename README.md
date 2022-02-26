@@ -95,3 +95,7 @@ Don't forget to follow me on [Twitter](https://twitter.com/ivybarley) for more t
 | 54 | Cisco Online Courses | The Cisco Networking Academy (https://www.netacad.com/courses/all-courses) has free courses in Networking, Internet of Things, Cybersecurity, Programming and others. |
 | 55 | GitHub Learning Labs | Get familiar with how GitHub works via GitHub Learning Labs (https://lab.github.com/) with free courses and learning paths on GitHub, DevOps, programming languages and tools. You can also work on hands-on lessons and get access to a helpful bot.|
 | 56 | Open Source Guides | Learn how to launch and grow an open source project using these guides: https://opensource.guide/. |
+
+## Week 9
+| Day  | Theme    | Tip   |
+| :------------- | :---------- | :----------- |
