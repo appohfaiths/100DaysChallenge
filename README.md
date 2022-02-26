@@ -99,3 +99,4 @@ Don't forget to follow me on [Twitter](https://twitter.com/ivybarley) for more t
 ## Week 9
 | Day  | Theme    | Tip   |
 | :------------- | :---------- | :----------- |
+| 57 | Non-Technical Roles in Tech | If you're considering non-technical roles in tech, here are 8 of them: https://www.cbtnuggets.com/blog/it-careers/8-non-technical-roles-ready-to-jump-into-it. |
