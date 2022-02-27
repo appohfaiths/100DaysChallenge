@@ -100,4 +100,4 @@ Don't forget to follow me on [Twitter](https://twitter.com/ivybarley) for more t
 | Day  | Theme    | Tip   |
 | :------------- | :---------- | :----------- |
 | 57 | Non-Technical Roles in Tech | If you're considering non-technical roles in tech, here are 8 of them: https://www.cbtnuggets.com/blog/it-careers/8-non-technical-roles-ready-to-jump-into-it. |
-| 58 | Get Mentors for Specific Topics | One cool thing about ADPList is that you can have mentorship sessions on specific topics, including Breaking into Tech, Resume and Portfolio Review, Negotiating a Job Offer, etc. Book your next mentorship topic at https://adplist.org/explore?tab=topics. |
+| 58 | Get Mentors for Specific Topics | One cool thing about ADPList is that you can have mentorship sessions on specific topics, including Breaking into Tech, Resume and Portfolio Review, Negotiating a Job Offer, etc. Choose your next mentorship topic at https://adplist.org/explore?tab=topics. |
