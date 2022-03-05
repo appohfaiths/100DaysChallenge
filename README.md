@@ -106,3 +106,7 @@ Don't forget to follow me on [Twitter](https://twitter.com/ivybarley) for more t
 | 61 | Tech Events | Attending tech events is a great way for you to learn new skills and expand your network. With the ongoing pandemic, many tech events are now virtual or hybrid. You can find tech events of interest on Eventbrite, Meetup, social media platforms and communities you are part of. |
 | 62 | Privacy Course | Take a free course on privacy and how privacy-preserving AI can be used in products and services: https://courses.openmined.org/courses/our-privacy-opportunity. |
 | 63 | Okay to Skip a Day or Two | If you have skipped a day or two or even a week of learning, it's okay. How about you get back on track today?|
+
+## Week 10
+| Day  | Theme    | Tip   |
+| :------------- | :---------- | :----------- |
