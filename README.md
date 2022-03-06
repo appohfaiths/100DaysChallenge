@@ -110,7 +110,6 @@ Don't forget to follow me on [Twitter](https://twitter.com/ivybarley) for more t
 ## Week 10
 | Day  | Theme    | Tip   |
 | :------------- | :---------- | :----------- |
-| 63 | SQL Roadmap | Here is a SQL roadmap newbies can follow to learn SQL online: https://careerkarma.com/blog/learn-sql/.|
-| 64 | Theme | Text. |
-
-
+| 64 | SQL Roadmap | Here is a SQL roadmap newbies can follow to learn SQL online: https://careerkarma.com/blog/learn-sql/.|
+| 65 | Theme | Text. |
+| 66 | Theme | These are some of the best free bootcamps, coding training, classes, and courses: https://careerkarma.com/blog/best-free-coding-bootcamp-options/.|
