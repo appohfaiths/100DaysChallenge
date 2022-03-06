@@ -111,5 +111,5 @@ Don't forget to follow me on [Twitter](https://twitter.com/ivybarley) for more t
 | Day  | Theme    | Tip   |
 | :------------- | :---------- | :----------- |
 | 64 | SQL Roadmap | Here is a SQL roadmap newbies can follow to learn SQL online: https://careerkarma.com/blog/learn-sql/.|
-| 65 | Theme | Text. |
+| 65 | Free Google UI/UX Design Course |  This is a great UI/UX Design course by Google with financial aid: https://www.coursera.org/professional-certificates/google-ux-design. |
 | 66 | Free Bootcamps and Courses | These are some of the best free bootcamps, coding training, classes, and courses: https://careerkarma.com/blog/best-free-coding-bootcamp-options/.|
