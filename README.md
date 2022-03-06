@@ -111,4 +111,6 @@ Don't forget to follow me on [Twitter](https://twitter.com/ivybarley) for more t
 | Day  | Theme    | Tip   |
 | :------------- | :---------- | :----------- |
 | 63 | SQL Roadmap | Here is a SQL roadmap newbies can follow to learn SQL online: https://careerkarma.com/blog/learn-sql/.|
+| 64 | Theme | Text. |
+
 
