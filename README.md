@@ -115,7 +115,7 @@ Don't forget to follow me on [Twitter](https://twitter.com/ivybarley) for more t
 | 66 | Free Bootcamps and Courses | These are some of the best free bootcamps, coding training, classes, and courses: https://careerkarma.com/blog/best-free-coding-bootcamp-options/.|
 | 67 | Keep Going | Keep going.|
 | 68 | Microsoft Spring Skills Challenge | Register for the [Microsoft Spring Skills Challenge](https://pulse.microsoft.com/en/skill-forward-en/na/fa1-get-rewarded-for-gaining-tech-skills-and-free-certifications-at-the-microsoft-spring-skills-challenge) to get access to free certifications, learning paths and trainings in Azure Fundamentals, Azure Data Fundamentals, Microsoft Security and Compliance among others.|
-| 69 | Theme | Text.|
+| 69 | Data Science Book | [Here](https://datascience-book.gitlab.io/book.html) is a free book to learn Julia Programming, Math & Data Science from Scratch. |
 | 70 | Almost There | Guess what? We've completed 70% of the 100 Days Learning Challenge. Now, that's something!|
 
 
