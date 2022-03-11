@@ -116,4 +116,6 @@ Don't forget to follow me on [Twitter](https://twitter.com/ivybarley) for more t
 | 67 | Keep Going | Keep going.|
 | 68 | Microsoft Spring Skills Challenge | Register for the [Microsoft Spring Skills Challenge](https://pulse.microsoft.com/en/skill-forward-en/na/fa1-get-rewarded-for-gaining-tech-skills-and-free-certifications-at-the-microsoft-spring-skills-challenge) to get access to free certifications, learning paths and trainings in Azure Fundamentals, Azure Data Fundamentals, Microsoft Security and Compliance among others.|
 | 69 | Theme | Text.|
+| 70 | Almost There | Guess what? We've completed 70% of the 100 Days Learning Challenge. Now, that's something!|
+
 
