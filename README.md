@@ -122,3 +122,4 @@ Don't forget to follow me on [Twitter](https://twitter.com/ivybarley) for more t
 ## Week 11
 | Day  | Theme    | Tip   |
 | :------------- | :---------- | :----------- |
+| 71 | Text | Text.|
