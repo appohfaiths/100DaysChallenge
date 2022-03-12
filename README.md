@@ -119,3 +119,6 @@ Don't forget to follow me on [Twitter](https://twitter.com/ivybarley) for more t
 | 70 | Almost There | Guess what? We've completed 70% of the 100 Days Learning Challenge. Now, that's something!|
 
 
+## Week 11
+| Day  | Theme    | Tip   |
+| :------------- | :---------- | :----------- |
