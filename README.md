@@ -126,5 +126,5 @@ Don't forget to follow me on [Twitter](https://twitter.com/ivybarley) for more t
 | 72 | Text | Text.|
 | 73 | Text | Text.|
 | 74 | UX Design Guide | Here is a great UX Design visual guide that has lessons, reading lists, watchlists, reflections and practice: https://start.uxdesign.cc/.|
-| 75 | Text | Text.|
+| 75 | Cybersecurity Collection | FreeCodeCamp has a collection of free Cybersecurity resources: https://www.freecodecamp.org/news/tag/cybersecurity/. |
 
