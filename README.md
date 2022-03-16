@@ -124,7 +124,7 @@ Don't forget to follow me on [Twitter](https://twitter.com/ivybarley) for more t
 | :------------- | :---------- | :----------- |
 | 71 | Text | Text.|
 | 72 | Text | Text.|
-| 73 | Text | Text.|
+| 73 | SQL for Data Analysis Course | Here is a free 4-week SQL for Data Analysis course for beginners on Udacity: https://www.udacity.com/course/sql-for-data-analysis--ud198. |
 | 74 | UX Design Guide | Here is a great UX Design visual guide that has lessons, reading lists, watchlists, reflections and practice: https://start.uxdesign.cc/.|
 | 75 | Cybersecurity Collection | FreeCodeCamp has a collection of free Cybersecurity resources: https://www.freecodecamp.org/news/tag/cybersecurity/. |
 | 76 | Git Book | Git plays an important role in the software development lifecycle. Download a free Git ebook: http://git-scm.com/book/en/v2. |
