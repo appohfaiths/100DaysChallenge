@@ -133,4 +133,5 @@ Don't forget to follow me on [Twitter](https://twitter.com/ivybarley) for more t
 ## Week 12
 | Day  | Theme    | Tip   |
 | :------------- | :---------- | :----------- |
+| 78 | Text | Text. |
 
