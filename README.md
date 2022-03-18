@@ -130,4 +130,7 @@ Don't forget to follow me on [Twitter](https://twitter.com/ivybarley) for more t
 | 76 | Git Book | Git plays an important role in the software development lifecycle. Download a free Git ebook: http://git-scm.com/book/en/v2. |
 | 77 | Text | Text. |
 
+## Week 12
+| Day  | Theme    | Tip   |
+| :------------- | :---------- | :----------- |
 
