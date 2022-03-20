@@ -134,6 +134,6 @@ Don't forget to follow me on [Twitter](https://twitter.com/ivybarley) for more t
 | Day  | Theme    | Tip   |
 | :------------- | :---------- | :----------- |
 | 78 | Text | Text. |
-| 79 | Text | Text. |
+| 79 | Google Technical Writing Course | Improve your technical writing skills by taking one of Google's free technical writing courses. Thousands of Google software engineers have taken and loved these courses: https://developers.google.com/tech-writing/announcements. |
 | 80 | Text | Text. |
 
