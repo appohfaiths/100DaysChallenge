@@ -133,7 +133,7 @@ Don't forget to follow me on [Twitter](https://twitter.com/ivybarley) for more t
 ## Week 12
 | Day  | Theme    | Tip   |
 | :------------- | :---------- | :----------- |
-| 78 | Text | Text. |
+| 78 | Data Science Video for Beginners | This video has some of the best tips on how to get started with learning data science: https://www.youtube.com/watch?v=oR670Txwh88. |
 | 79 | Google Technical Writing Course | Improve your technical writing skills by taking one of Google's free technical writing courses. Thousands of Google software engineers have taken and loved these courses: https://developers.google.com/tech-writing/announcements. |
 | 80 | Text | Text. |
 
