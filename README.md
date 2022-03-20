@@ -128,7 +128,7 @@ Don't forget to follow me on [Twitter](https://twitter.com/ivybarley) for more t
 | 74 | UX Design Guide | Here is a great UX Design visual guide that has lessons, reading lists, watchlists, reflections and practice: https://start.uxdesign.cc/.|
 | 75 | Cybersecurity Collection | FreeCodeCamp has a collection of free Cybersecurity resources: https://www.freecodecamp.org/news/tag/cybersecurity/. |
 | 76 | Git Book | Git plays an important role in the software development lifecycle. Download a free Git ebook: http://git-scm.com/book/en/v2. |
-| 77 | Text | Text. |
+| 77 | Python Cheatsheet | Don't forget all your Python codes. Use this Python cheatsheet as your reference:  https://www.pythoncheatsheet.org/.|
 
 ## Week 12
 | Day  | Theme    | Tip   |
