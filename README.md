@@ -137,5 +137,6 @@ Don't forget to follow me on [Twitter](https://twitter.com/ivybarley) for more t
 | 79 | Google Technical Writing Course | Improve your technical writing skills by taking one of Google's free technical writing courses. Thousands of Google software engineers have taken and loved these courses: https://developers.google.com/tech-writing/announcements. |
 | 80 | Machine Learning for Cybersecurity | This is a curated list of awesome tools and resources related to the use of machine learning for cybersecurity: https://github.com/jivoi/awesome-ml-for-cybersecurity. |
 | 81 | Beginner's Guide to React |  Here is a beginner's guide to learning React: https://www.youtube.com/watch?v=nTeuhbP7wdE. |
+| 82 | Beginner's Guide to TypeScript |  This is freeCodeCamp's ultimate guide to learning Typescript for beginners: https://www.freecodecamp.org/news/learn-typescript-beginners-guide/. |
 
 
