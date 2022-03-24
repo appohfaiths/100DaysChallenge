@@ -138,5 +138,7 @@ Don't forget to follow me on [Twitter](https://twitter.com/ivybarley) for more t
 | 80 | Machine Learning for Cybersecurity | This is a curated list of awesome tools and resources related to the use of machine learning for cybersecurity: https://github.com/jivoi/awesome-ml-for-cybersecurity. |
 | 81 | Beginner's Guide to React |  Here is a beginner's guide to learning React: https://www.youtube.com/watch?v=nTeuhbP7wdE. |
 | 82 | Beginner's Guide to TypeScript |  This is freeCodeCamp's ultimate guide to learning Typescript for beginners: https://www.freecodecamp.org/news/learn-typescript-beginners-guide/. |
+| 83 | Website Icons |  Find a variety of icons for your website on https://icons8.com/, https://iconmonstr.com/ and https://thenounproject.com/. |
+
 
 
