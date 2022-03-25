@@ -139,6 +139,6 @@ Don't forget to follow me on [Twitter](https://twitter.com/ivybarley) for more t
 | 81 | Beginner's Guide to React |  Here is a beginner's guide to learning React: https://www.youtube.com/watch?v=nTeuhbP7wdE. |
 | 82 | Beginner's Guide to TypeScript |  This is freeCodeCamp's ultimate guide to learning Typescript for beginners: https://www.freecodecamp.org/news/learn-typescript-beginners-guide/. |
 | 83 | Website Icons |  Find a variety of icons for your website on https://icons8.com/, https://iconmonstr.com/ and https://thenounproject.com/. |
-
+| 84 | Algorithms for Decision Making Book |  Get this free ebook titled Algorithms for Decision Making from MIT: https://www.datasciencecentral.com/algorithms-for-decision-making-excellent-free-download-book-from/. |
 
 
