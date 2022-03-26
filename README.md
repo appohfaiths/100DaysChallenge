@@ -141,4 +141,6 @@ Don't forget to follow me on [Twitter](https://twitter.com/ivybarley) for more t
 | 83 | Website Icons |  Find a variety of icons for your website on https://icons8.com/, https://iconmonstr.com/ and https://thenounproject.com/. |
 | 84 | Algorithms for Decision Making Book |  Get this free ebook titled Algorithms for Decision Making from MIT: https://www.datasciencecentral.com/algorithms-for-decision-making-excellent-free-download-book-from/. |
 
-
+## Week 13
+| Day  | Theme    | Tip   |
+| :------------- | :---------- | :----------- |
