@@ -145,7 +145,7 @@ Don't forget to follow me on [Twitter](https://twitter.com/ivybarley) for more t
 | Day  | Theme    | Tip   |
 | :------------- | :---------- | :----------- |
 | 85 | People Are Watching |  Share your tech journey online; people are watching and guess what? People have opportunities. |
-| 86 | Theme |  Text. |
+| 86 | UX Research Resources |  UX Researcher Career Guides, Tools, and Resources by UX Researchers from top companies: https://docs.google.com/spreadsheets/d/1yIjUR0_9HhjuaBOVZsq4rV1EXKtN63BxhHv8vPT999w/edit#gid=254454425. |
 | 87 | Theme |  Text. |
 | 88 | Theme |  Text. |
 | 89 | Theme |  Text. |
