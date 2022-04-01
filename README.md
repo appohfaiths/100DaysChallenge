@@ -149,6 +149,6 @@ Don't forget to follow me on [Twitter](https://twitter.com/ivybarley) for more t
 | 87 | Virtual Work Experience |  Get access to bite-sized 5-6 hour virtual work experience programs for a career advantage with Fortune 500 companies at https://www.theforage.com/. |
 | 88 | UX Research Resources |  UX Researcher Career Guides, Tools, and Resources by UX Researchers from top companies: https://docs.google.com/spreadsheets/d/1yIjUR0_9HhjuaBOVZsq4rV1EXKtN63BxhHv8vPT999w/edit#gid=254454425. |
 | 89 | Code Snippets |  Create code snippet images using https://ray.so/. |
-| 90 | Theme |  Text. |
+| 90 | Non-tech Background to Tech |  If you're transitioning into tech from a non-tech background, I recommend you read this article: https://medium.com/@ivybarley/breaking-into-tech-from-a-non-tech-background-146e61645910. |
 | 91 | GitHub Profile Landing Page |  Create a beautiful landing page for your GitHub profile using this resource: https://yushi95.medium.com/how-to-create-a-beautiful-readme-for-your-github-profile-36957caa711c.|
 
