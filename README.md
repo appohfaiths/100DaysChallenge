@@ -152,3 +152,6 @@ Don't forget to follow me on [Twitter](https://twitter.com/ivybarley) for more t
 | 90 | Non-tech Background to Tech |  If you're transitioning into tech from a non-tech background, I recommend you read this article: https://medium.com/@ivybarley/breaking-into-tech-from-a-non-tech-background-146e61645910. |
 | 91 | GitHub Profile Landing Page |  Create a beautiful landing page for your GitHub profile using this resource: https://yushi95.medium.com/how-to-create-a-beautiful-readme-for-your-github-profile-36957caa711c.|
 
+## Week 14
+| Day  | Theme    | Tip   |
+| :------------- | :---------- | :----------- |
