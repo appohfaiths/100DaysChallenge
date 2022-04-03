@@ -155,6 +155,6 @@ Don't forget to follow me on [Twitter](https://twitter.com/ivybarley) for more t
 ## Week 14
 | Day  | Theme    | Tip   |
 | :------------- | :---------- | :----------- |
-| 92 | Theme |  Text |
+| 92 | React Docs |  Looking for resources to learn React? This docs manager has many free resources, including how to create a React app: https://forthright-tech.notion.site/forthright-tech/Docs-Manager-Demo-6531d9b1f62d41e891f09bef3d8919da. |
 | 93 | Theme |  Text |
 
