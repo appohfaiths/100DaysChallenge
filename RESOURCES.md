@@ -105,7 +105,8 @@ https://www.youtube.com/c/AJSmart
 
 ## Data Engineering
 
-
+Prerequisite
+https://docs.google.com/spreadsheets/d/1TbWOgQ7o-xmIFsVdP8V5xxay9MPgQ4nI-DjFmG-Al3E/edit?usp=drivesdk
 
 
 ## Web Development
