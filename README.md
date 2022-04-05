@@ -158,4 +158,5 @@ Don't forget to follow me on [Twitter](https://twitter.com/ivybarley) for more t
 | 92 | React Docs |  Looking for resources to learn React? This docs manager has many free resources, including how to create a React app: https://forthright-tech.notion.site/forthright-tech/Docs-Manager-Demo-6531d9b1f62d41e891f09bef3d8919da. |
 | 93 | Algorithms Course | Learn Algorithms for free on Coursera. Part I covers elementary data structures, sorting, and searching algorithms: https://www.coursera.org/learn/algorithms-part1. |
 | 94 | Theme |  Text |
+| 95 | Theme |  Text |
 
