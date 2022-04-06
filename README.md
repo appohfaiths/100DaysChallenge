@@ -159,4 +159,5 @@ Don't forget to follow me on [Twitter](https://twitter.com/ivybarley) for more t
 | 93 | Algorithms Course | Learn Algorithms for free on Coursera. Part I covers elementary data structures, sorting, and searching algorithms: https://www.coursera.org/learn/algorithms-part1. |
 | 94 | Theme |  Text |
 | 95 | Theme |  Text |
+| 96 | Theme |  Text |
 
