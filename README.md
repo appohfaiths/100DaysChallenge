@@ -159,6 +159,6 @@ Don't forget to follow me on [Twitter](https://twitter.com/ivybarley) for more t
 | 93 | Algorithms Course | Learn Algorithms for free on Coursera. Part I covers elementary data structures, sorting, and searching algorithms: https://www.coursera.org/learn/algorithms-part1. |
 | 94 | Web3 |  Interested in Web3? https://www.learnweb3.io/ has tons of free resources to learn DAOs, DeFi, Smart Contracts and NFTs. You can also join their Discord server where you can connect with the Web3 community and participate in hackathons and events. |
 | 95 | Theme |  Text |
-| 96 | Theme |  Text |
+| 96 | Job Search Tracker |  If you are searching for an internship, freelance, part-time or full-time role, this is a Notion template to save, keep track, and add notes for each opportunity you’re exploring: https://joeyabanks.notion.site/joeyabanks/5ac723108369496b835814aa3fbed818. |
 | 97 | Accessibility Checker |  As you plan, design and build products, do you have people with disabilities in mind? Here is a free tool by Microsoft that tests websites and mobile apps for accessibility errors and provides recommendations to fix them: https://accessibilityinsights.io/. Are you committed to building inclusive software?  |
 
