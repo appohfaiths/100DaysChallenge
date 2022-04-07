@@ -157,7 +157,7 @@ Don't forget to follow me on [Twitter](https://twitter.com/ivybarley) for more t
 | :------------- | :---------- | :----------- |
 | 92 | React Docs |  Looking for resources to learn React? This docs manager has many free resources, including how to create a React app: https://forthright-tech.notion.site/forthright-tech/Docs-Manager-Demo-6531d9b1f62d41e891f09bef3d8919da. |
 | 93 | Algorithms Course | Learn Algorithms for free on Coursera. Part I covers elementary data structures, sorting, and searching algorithms: https://www.coursera.org/learn/algorithms-part1. |
-| 94 | Theme |  Text |
+| 94 | Web3 |  Interested in Web3? https://www.learnweb3.io/ has tons of free resources to learn DAOs, DeFi, Smart Contracts and NFTs. You can also join their Discord server where you can connect with the Web3 community and participate in hackathons and events. |
 | 95 | Theme |  Text |
 | 96 | Theme |  Text |
 | 97 | Theme |  Text |
