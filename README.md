@@ -160,5 +160,5 @@ Don't forget to follow me on [Twitter](https://twitter.com/ivybarley) for more t
 | 94 | Web3 |  Interested in Web3? https://www.learnweb3.io/ has tons of free resources to learn DAOs, DeFi, Smart Contracts and NFTs. You can also join their Discord server where you can connect with the Web3 community and participate in hackathons and events. |
 | 95 | Theme |  Text |
 | 96 | Theme |  Text |
-| 97 | Theme |  Text |
+| 97 | Accessibility Checker |  As you plan, design and build products, do you have people with disabilities in mind? Here is a free tool by Microsoft that tests websites and mobile apps for accessibility errors and provides recommendations to fix them: https://accessibilityinsights.io/. Are you committed to building inclusive software?  |
 
