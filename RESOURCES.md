@@ -105,6 +105,9 @@ https://www.youtube.com/c/AJSmart
 
 ## Data Engineering
 
+Prerequisite
+https://docs.google.com/spreadsheets/d/1TbWOgQ7o-xmIFsVdP8V5xxay9MPgQ4nI-DjFmG-Al3E/edit?usp=drivesdk
+
 Python Challenge
 https://1drv.ms/w/s!Agyh1QMsr6Hwjho-4rQJAxnAa6J3?e=7z8kVh
 
@@ -127,7 +130,6 @@ https://www.kdnuggets.com/2020/12/introduction-data-engineering.html
 
 Data Engineering Zoomcamp
 https://github.com/DataTalksClub/data-engineering-zoomcamp
-
 
 
 ## Web Development
