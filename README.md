@@ -165,4 +165,4 @@ Don't forget to follow me on [Twitter](https://twitter.com/ivybarley) for more t
 ## Week 15
 | Day  | Theme    | Tip   |
 | :------------- | :---------- | :----------- |
-| 98 | Add New Skill to LinkedIn |  As you have spent time gaining these skills, you may want to update your LinkedIn profile with your newly acquired skills and ask people who are familiar with your skills to endorse you for them on LinkedIn. You can also take assessments for these skills directly on LinkedIn. If you score in the top 30%, LinkedIn will display your badge on your profile. |
+| 98 | Add New Skills to LinkedIn |  As you have spent time gaining these skills, you may want to update your LinkedIn profile with your newly acquired skills and ask people who are familiar with your skills to endorse you for them on LinkedIn. You can also take assessments for these skills directly on LinkedIn. If you score in the top 30%, LinkedIn will display your badge on your profile. |
