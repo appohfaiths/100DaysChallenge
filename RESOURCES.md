@@ -133,3 +133,62 @@ https://github.com/DataTalksClub/data-engineering-zoomcamp
 
 
 ## Web Development
+
+### Frontend? Backend?
+Watch this: https://youtu.be/ysEN5RaKOlA
+
+### HTML Resources:
+A Certified HTML Course from Sololearn : https://www.sololearn.com/learning/1014
+
+https://akinolaakeem.com/hcj(For HTML, CSS and JavaScript)
+https://www.w3schools.com/html/default.asp
+
+#### Video Links(HTML):
+https://youtu.be/qz0aGYrrlhU
+https://youtu.be/hu-q2zYwEYs
+https://youtu.be/UB1O30fR-EE
+
+### CSS :
+https://www.w3schools.com/css/default.asp
+https://www.codecademy.com/learn/learn-css
+https://akinolaakeem.com/hcj
+https://www.sololearn.com/learning/1014
+
+#### Video Links(CSS):
+https://youtu.be/yfoY53QXEnI
+https://youtu.be/1Rs2ND1ryYc
+https://youtu.be/D-h8L5hgW-w
+
+### Responsive Web Design:
+https://youtu.be/srvUrASNj0s
+https://youtu.be/yU7jJ3NbPdA
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9g9Vh9MAA-XKnfJsWZnPZFw
+https://youtu.be/6Yh8y0pVfQc
+
+### Learn A CSS Framework:
+Tailwind or Bootstrap?: https://youtu.be/hdGsFpZ0J2E
+
+Bootstrap: 
+https://youtu.be/-qfEOE4vtxE
+https://youtu.be/5GcQtLDGXy8
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9joIM91nLzd_qaH_AimmdAR
+
+Tailwind CSS:
+https://youtu.be/UBOj6rqRUME
+https://youtu.be/V5HYZOmkPSs
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw
+
+
+### JavaScript:
+https://www.codecademy.com/learn/introduction-to-javascript
+https://www.sololearn.com/learning/1024
+https://akinolaakeem.com/hcj
+
+#### Video Links(JS):
+https://youtu.be/W6NZfCO5SIk
+https://youtu.be/jS4aFq5-91M
+https://youtu.be/Qqx_wzMmFeA
+
+### Full Stack Web Development Tutorials:
+https://youtu.be/Q33KBiDriJY
+https://www.youtube.com/playlist?list=PLQSmIhc0GVPPhpBAC3y6xChtOz3RJ8abN
