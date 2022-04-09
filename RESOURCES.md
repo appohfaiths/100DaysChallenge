@@ -140,7 +140,7 @@ Watch this: https://youtu.be/ysEN5RaKOlA
 ### HTML Resources:
 A Certified HTML Course from Sololearn : https://www.sololearn.com/learning/1014
 
-https://akinolaakeem.com/hcj(For HTML, CSS and JavaScript)
+https://akinolaakeem.com/hcj (For HTML, CSS and JavaScript)
 https://www.w3schools.com/html/default.asp
 
 #### Video Links(HTML):
