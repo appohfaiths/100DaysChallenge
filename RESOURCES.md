@@ -3,9 +3,10 @@ Helpful resources for your learning journey can be found here. More will be adde
 
 ## UI/UX Design
 
-#### A curated list of resources by UXGhana
+| Description  | Link    |
+| :------------- | :---------- |
+|A curated list of resources by UXGhana | https://www.notion.so/Design-Resources-a242f988d0664ad1ad744fe30418c9eb|
 
-https://www.notion.so/Design-Resources-a242f988d0664ad1ad744fe30418c9eb
 
 #### Where to find articles
 
