@@ -7,12 +7,9 @@ Helpful resources for your learning journey can be found here. More will be adde
 | :------------- | :---------- |
 | A curated list of resources by UXGhana | https://www.notion.so/Design-Resources-a242f988d0664ad1ad744fe30418c9eb|
 | Where to find articles| https://medium.com/; https://uxplanet.org/ ; https://www.nngroup.com/; https://uxdesign.cc/|
+| Books | https://drive.google.com/drive/folders/1bPxU2KsjeHMImJ9beR8Grazgv90pCAln?usp=sharing|
 | |  |
 
-#### Books
-
-Google Drive Folder
-https://drive.google.com/drive/folders/1bPxU2KsjeHMImJ9beR8Grazgv90pCAln?usp=sharing
 
 #### Courses
 
