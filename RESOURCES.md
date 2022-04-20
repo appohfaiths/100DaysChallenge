@@ -9,13 +9,12 @@ Helpful resources for your learning journey can be found here. More will be adde
 | Where to find articles| https://medium.com/; https://uxplanet.org/ ; https://www.nngroup.com/; https://uxdesign.cc/|
 | Books | https://drive.google.com/drive/folders/1bPxU2KsjeHMImJ9beR8Grazgv90pCAln?usp=sharing|
 | Course: Interacting Design Foundation | https://www.interaction-design.org/ |
+| Course: Google UX Course | https://www.coursera.org/professional-certificates/google-ux-design |
 | |  |
 
 
 #### Courses
 
-Google UX Course
-https://www.coursera.org/professional-certificates/google-ux-design
 
 Udemy
 https://www.udemy.com/
