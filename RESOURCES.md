@@ -10,17 +10,9 @@ Helpful resources for your learning journey can be found here. More will be adde
 | Books | https://drive.google.com/drive/folders/1bPxU2KsjeHMImJ9beR8Grazgv90pCAln?usp=sharing|
 | Course: Interacting Design Foundation | https://www.interaction-design.org/ |
 | Course: Google UX Course | https://www.coursera.org/professional-certificates/google-ux-design |
+| Course: Udemy| https://www.udemy.com/ |
+| Design Systems | https://blog.prototypr.io/50-design-systems-examples-to-learn-from-for-your-next-project-b9949e486702 |
 | |  |
-
-
-#### Courses
-
-
-Udemy
-https://www.udemy.com/
-
-#### Design Systems
-https://blog.prototypr.io/50-design-systems-examples-to-learn-from-for-your-next-project-b9949e486702
 
 #### Mentorship
 
