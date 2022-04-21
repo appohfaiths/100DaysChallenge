@@ -1,5 +1,5 @@
 # Resources
-Helpful resources for your learning journey can be found here. More will be added soon.
+Helpful resources for your learning journey can be found here. More resources will be added soon.
 
 ## UI/UX Design
 
