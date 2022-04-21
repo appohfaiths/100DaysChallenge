@@ -12,12 +12,8 @@ Helpful resources for your learning journey can be found here. More will be adde
 | Course: Google UX Course | https://www.coursera.org/professional-certificates/google-ux-design |
 | Course: Udemy| https://www.udemy.com/ |
 | Design Systems | https://blog.prototypr.io/50-design-systems-examples-to-learn-from-for-your-next-project-b9949e486702 |
+| Mentorship | https://adplist.org/ |
 | |  |
-
-#### Mentorship
-
-ADPList
-https://adplist.org/
 
 #### Communities
 
