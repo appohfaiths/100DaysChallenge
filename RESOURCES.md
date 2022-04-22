@@ -13,15 +13,11 @@ Helpful resources for your learning journey can be found here. More resources wi
 | Course: Udemy| https://www.udemy.com/ |
 | Design Systems | https://blog.prototypr.io/50-design-systems-examples-to-learn-from-for-your-next-project-b9949e486702 |
 | Mentorship | https://adplist.org/ |
+| Community: Blacks Who Design | https://blackswho.design/ |
+| Community: UX Ghana | https://t.me/+UcZObWrysrA4ZDU0 |
 | |  |
 
 #### Communities
-
-UX Ghana
-https://t.me/+UcZObWrysrA4ZDU0
-
-Blacks Who Design
-https://blackswho.design/
 
 The DesignerShip
 https://thedesignership.com/#
