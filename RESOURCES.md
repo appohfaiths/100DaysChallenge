@@ -15,16 +15,10 @@ Helpful resources for your learning journey can be found here. More resources wi
 | Mentorship | https://adplist.org/ |
 | Community: Blacks Who Design | https://blackswho.design/ |
 | Community: UX Ghana | https://t.me/+UcZObWrysrA4ZDU0 |
+| Community: The DesignerShip | https://thedesignership.com/# |
+| Community: Design Social Club | https://www.designerslack.community/community/designsocialclub |
 | |  |
 
-#### Communities
-
-The DesignerShip
-https://thedesignership.com/#
-
-
-Design Social Club
-https://www.designerslack.community/community/designsocialclub
 
 #### YouTube Channels
 
