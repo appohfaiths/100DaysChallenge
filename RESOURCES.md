@@ -17,16 +17,12 @@ Helpful resources for your learning journey can be found here. More resources wi
 | Community: UX Ghana | https://t.me/+UcZObWrysrA4ZDU0 |
 | Community: The DesignerShip | https://thedesignership.com/# |
 | Community: Design Social Club | https://www.designerslack.community/community/designsocialclub |
+| YouTube Channel: Evans Akanno | https://www.youtube.com/channel/UCKq2z-hYqD1D1RxFPEdhKqw |
+| YouTube Channel: Hello I'm Alexa | https://www.youtube.com/c/HelloImAlexa |
 | |  |
 
 
 #### YouTube Channels
-
-Evans Akanno
-https://www.youtube.com/channel/UCKq2z-hYqD1D1RxFPEdhKqw
-
-Hello I'm Alexa
-https://www.youtube.com/c/HelloImAlexa
 
 Howard Pinsky
 https://www.youtube.com/IceflowStudios
