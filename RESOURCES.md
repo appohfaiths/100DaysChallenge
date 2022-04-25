@@ -19,16 +19,12 @@ Helpful resources for your learning journey can be found here. More resources wi
 | Community: Design Social Club | https://www.designerslack.community/community/designsocialclub |
 | YouTube Channel: Evans Akanno | https://www.youtube.com/channel/UCKq2z-hYqD1D1RxFPEdhKqw |
 | YouTube Channel: Hello I'm Alexa | https://www.youtube.com/c/HelloImAlexa |
+| YouTube Channel: Howard Pinsky | https://www.youtube.com/IceflowStudios |
+| YouTube Channel: Jesse Showalter | https://www.youtube.com/c/JesseShowalter |
 | |  |
 
 
 #### YouTube Channels
-
-Howard Pinsky
-https://www.youtube.com/IceflowStudios
-
-Jesse Showalter
-https://www.youtube.com/c/JesseShowalter
 
 Maddy Beard
 https://www.youtube.com/c/MaddyBeard
