@@ -21,19 +21,13 @@ Helpful resources for your learning journey can be found here. More resources wi
 | YouTube Channel: Hello I'm Alexa | https://www.youtube.com/c/HelloImAlexa |
 | YouTube Channel: Howard Pinsky | https://www.youtube.com/IceflowStudios |
 | YouTube Channel: Jesse Showalter | https://www.youtube.com/c/JesseShowalter |
+| YouTube Channel: Maddy Beard | https://www.youtube.com/c/MaddyBeard |
+| YouTube Channel: Femke.Design| https://www.youtube.com/c/femkedesign |
+| YouTube Channel: Mike Locke| https://www.youtube.com/c/MikeLocke |
 | |  |
 
 
 #### YouTube Channels
-
-Maddy Beard
-https://www.youtube.com/c/MaddyBeard
-
-Femke.Design
-https://www.youtube.com/c/femkedesign
-
-Mike Locke
-https://www.youtube.com/c/MikeLocke
 
 Raygan Design
 https://www.youtube.com/c/uiraygan
