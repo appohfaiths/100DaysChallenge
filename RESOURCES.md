@@ -24,29 +24,12 @@ Helpful resources for your learning journey can be found here. More resources wi
 | YouTube Channel: Maddy Beard | https://www.youtube.com/c/MaddyBeard |
 | YouTube Channel: Femke.Design| https://www.youtube.com/c/femkedesign |
 | YouTube Channel: Mike Locke| https://www.youtube.com/c/MikeLocke |
+| YouTube Channel: Raygan Design| https://www.youtube.com/c/uiraygan  |
+| YouTube Channel: Sharon Onyinye| https://www.youtube.com/c/SharonOnyinye |
+| YouTube Channel: The Futur | https://www.youtube.com/c/thefuturishere |
+| YouTube Channel: Vaexperience | https://www.youtube.com/c/VAEXPERIENCE |
+| YouTube Channel: AJ&Smart | https://www.youtube.com/c/AJSmart |
 | |  |
-
-
-#### YouTube Channels
-
-Raygan Design
-https://www.youtube.com/c/uiraygan
-
-Sharon Onyinye
-https://www.youtube.com/c/SharonOnyinye
-
-The Futur
-https://www.youtube.com/c/thefuturishere
-
-Vaexperience
-https://www.youtube.com/c/VAEXPERIENCE
-
-AJ&Smart
-https://www.youtube.com/c/AJSmart
-
-
-
-
 
 ## Data Engineering
 
