@@ -29,15 +29,13 @@ Helpful resources for your learning journey can be found here. More resources wi
 | YouTube Channel: The Futur | https://www.youtube.com/c/thefuturishere |
 | YouTube Channel: Vaexperience | https://www.youtube.com/c/VAEXPERIENCE |
 | YouTube Channel: AJ&Smart | https://www.youtube.com/c/AJSmart |
-| |  |
 
 ## Data Engineering
-
-Prerequisite
-https://docs.google.com/spreadsheets/d/1TbWOgQ7o-xmIFsVdP8V5xxay9MPgQ4nI-DjFmG-Al3E/edit?usp=drivesdk
-
-Python Challenge
-https://1drv.ms/w/s!Agyh1QMsr6Hwjho-4rQJAxnAa6J3?e=7z8kVh
+| Description  | Link    |
+| :------------- | :---------- |
+| Prerequisite | https://docs.google.com/spreadsheets/d/1TbWOgQ7o-xmIFsVdP8V5xxay9MPgQ4nI-DjFmG-Al3E/edit?usp=drivesdk |
+| Python Challenge| https://1drv.ms/w/s!Agyh1QMsr6Hwjho-4rQJAxnAa6J3?e=7z8kVh |
+| |  |
 
 SQL Challenge
 https://docs.google.com/document/d/1GWZoCZY19appgB2yHfowrKAqszaSaIp2yvUAZZg73V4/edit#
