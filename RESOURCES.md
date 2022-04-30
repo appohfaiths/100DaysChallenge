@@ -35,13 +35,9 @@ Helpful resources for your learning journey can be found here. More resources wi
 | :------------- | :---------- |
 | Prerequisite | https://docs.google.com/spreadsheets/d/1TbWOgQ7o-xmIFsVdP8V5xxay9MPgQ4nI-DjFmG-Al3E/edit?usp=drivesdk |
 | Python Challenge| https://1drv.ms/w/s!Agyh1QMsr6Hwjho-4rQJAxnAa6J3?e=7z8kVh |
+| SQL Challenge | https://docs.google.com/document/d/1GWZoCZY19appgB2yHfowrKAqszaSaIp2yvUAZZg73V4/edit# |
+| HTML Data Extraction | https://docs.google.com/document/d/1BMjX6cm01xwDAFBNGJPitboR5GqQ-B9uQESD2kJwcEg/edit?usp=sharing |
 | |  |
-
-SQL Challenge
-https://docs.google.com/document/d/1GWZoCZY19appgB2yHfowrKAqszaSaIp2yvUAZZg73V4/edit#
-
-HTML Data Extraction
-https://docs.google.com/document/d/1BMjX6cm01xwDAFBNGJPitboR5GqQ-B9uQESD2kJwcEg/edit?usp=sharing
 
 Sample solution to HTML Data Extraction Challenge
 https://github.com/ewurabapotez/PostgreSQLTest/tree/main/Web%20Scraping
