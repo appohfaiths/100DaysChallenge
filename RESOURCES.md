@@ -44,6 +44,8 @@ Helpful resources for your learning journey can be found here. More resources wi
 | |  |
 
 ## Web Development
+| Description  | Link    |
+| :------------- | :---------- |
 
 ### Frontend? Backend?
 Watch this: https://youtu.be/ysEN5RaKOlA
