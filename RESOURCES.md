@@ -41,14 +41,12 @@ Helpful resources for your learning journey can be found here. More resources wi
 | Apache Airflow | https://1drv.ms/w/s!Agyh1QMsr6HwjiC5Zuo1Alomd5CI?e=E3NVLV |
 | Introduction to Data Engineering| https://www.kdnuggets.com/2020/12/introduction-data-engineering.html |
 | Data Engineering Zoomcamp | https://github.com/DataTalksClub/data-engineering-zoomcamp |
-| |  |
 
 ## Web Development
 | Description  | Link    |
 | :------------- | :---------- |
-
-### Frontend? Backend?
-Watch this: https://youtu.be/ysEN5RaKOlA
+| Frontend? Backend? | https://youtu.be/ysEN5RaKOlA |
+| |  |
 
 ### HTML Resources:
 A Certified HTML Course from Sololearn : https://www.sololearn.com/learning/1014
