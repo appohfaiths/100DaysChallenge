@@ -46,13 +46,10 @@ Helpful resources for your learning journey can be found here. More resources wi
 | Description  | Link    |
 | :------------- | :---------- |
 | Frontend? Backend? | https://youtu.be/ysEN5RaKOlA |
-| |  |
-
-### HTML Resources:
-A Certified HTML Course from Sololearn : https://www.sololearn.com/learning/1014
-
-https://akinolaakeem.com/hcj (For HTML, CSS and JavaScript)
-https://www.w3schools.com/html/default.asp
+| HTML Basics | https://www.w3schools.com/html/default.asp |
+| A Certified HTML Course from Sololearn | https://www.sololearn.com/learning/1014 |
+| HTML, CSS and JavaScript | https://akinolaakeem.com/hcj |
+| | |
 
 #### Video Links(HTML):
 https://youtu.be/qz0aGYrrlhU
