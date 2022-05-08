@@ -49,12 +49,8 @@ Helpful resources for your learning journey can be found here. More resources wi
 | HTML Basics | https://www.w3schools.com/html/default.asp |
 | A Certified HTML Course from Sololearn | https://www.sololearn.com/learning/1014 |
 | HTML, CSS and JavaScript | https://akinolaakeem.com/hcj |
+| HTML Videos | https://youtu.be/qz0aGYrrlhU; https://youtu.be/hu-q2zYwEYs; https://youtu.be/UB1O30fR-EE|
 | | |
-
-#### Video Links(HTML):
-https://youtu.be/qz0aGYrrlhU
-https://youtu.be/hu-q2zYwEYs
-https://youtu.be/UB1O30fR-EE
 
 ### CSS :
 https://www.w3schools.com/css/default.asp
