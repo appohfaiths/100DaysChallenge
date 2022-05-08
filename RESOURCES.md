@@ -50,13 +50,10 @@ Helpful resources for your learning journey can be found here. More resources wi
 | A Certified HTML Course from Sololearn | https://www.sololearn.com/learning/1014 |
 | HTML, CSS and JavaScript | https://akinolaakeem.com/hcj |
 | HTML Videos | https://youtu.be/qz0aGYrrlhU; https://youtu.be/hu-q2zYwEYs; https://youtu.be/UB1O30fR-EE|
-| | |
-
-### CSS :
-https://www.w3schools.com/css/default.asp
-https://www.codecademy.com/learn/learn-css
-https://akinolaakeem.com/hcj
-https://www.sololearn.com/learning/1014
+| CSS | https://www.w3schools.com/css/default.asp |
+| CSS | https://www.codecademy.com/learn/learn-css|
+| CSS | https://akinolaakeem.com/hcj|
+| CSS | https://www.sololearn.com/learning/1014|
 
 #### Video Links(CSS):
 https://youtu.be/yfoY53QXEnI
