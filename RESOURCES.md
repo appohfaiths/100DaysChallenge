@@ -54,11 +54,9 @@ Helpful resources for your learning journey can be found here. More resources wi
 | CSS | https://www.codecademy.com/learn/learn-css|
 | CSS | https://akinolaakeem.com/hcj|
 | CSS | https://www.sololearn.com/learning/1014|
+| CSS Videos | https://youtu.be/yfoY53QXEnI; https://youtu.be/1Rs2ND1ryYc; https://youtu.be/D-h8L5hgW-w|
+|  | |
 
-#### Video Links(CSS):
-https://youtu.be/yfoY53QXEnI
-https://youtu.be/1Rs2ND1ryYc
-https://youtu.be/D-h8L5hgW-w
 
 ### Responsive Web Design:
 https://youtu.be/srvUrASNj0s
