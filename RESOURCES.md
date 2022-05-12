@@ -55,13 +55,9 @@ Helpful resources for your learning journey can be found here. More resources wi
 | CSS | https://akinolaakeem.com/hcj|
 | CSS | https://www.sololearn.com/learning/1014|
 | CSS Videos | https://youtu.be/yfoY53QXEnI; https://youtu.be/1Rs2ND1ryYc; https://youtu.be/D-h8L5hgW-w|
-| Responsive Web Design | https://youtu.be/srvUrASNj0s; https://youtu.be/yU7jJ3NbPdA; https://www.youtube.com/playlist?list=PL4cUxeGkcC9g9Vh9MAA-XKnfJsWZnPZFw; 
-https://youtu.be/6Yh8y0pVfQc|
+| Responsive Web Design | https://youtu.be/srvUrASNj0s; https://youtu.be/yU7jJ3NbPdA; https://www.youtube.com/playlist?list=PL4cUxeGkcC9g9Vh9MAA-XKnfJsWZnPZFw; https://youtu.be/6Yh8y0pVfQc|
+| Learn A CSS Framework: Tailwind or Bootstrap? | https://youtu.be/hdGsFpZ0J2E |
 |  | |
-
-
-### Learn A CSS Framework:
-Tailwind or Bootstrap?: https://youtu.be/hdGsFpZ0J2E
 
 Bootstrap: 
 https://youtu.be/-qfEOE4vtxE
