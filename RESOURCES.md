@@ -58,13 +58,8 @@ Helpful resources for your learning journey can be found here. More resources wi
 | Responsive Web Design | https://youtu.be/srvUrASNj0s; https://youtu.be/yU7jJ3NbPdA; https://www.youtube.com/playlist?list=PL4cUxeGkcC9g9Vh9MAA-XKnfJsWZnPZFw; https://youtu.be/6Yh8y0pVfQc|
 | Learn A CSS Framework: Tailwind or Bootstrap? | https://youtu.be/hdGsFpZ0J2E |
 | Bootstrap | https://youtu.be/-qfEOE4vtxE; https://youtu.be/5GcQtLDGXy8; https://www.youtube.com/playlist?list=PL4cUxeGkcC9joIM91nLzd_qaH_AimmdAR|
+| Tailwind CSS: | https://youtu.be/UBOj6rqRUME; https://youtu.be/V5HYZOmkPSs; https://www.youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw|
 |  | |
-
-Tailwind CSS:
-https://youtu.be/UBOj6rqRUME
-https://youtu.be/V5HYZOmkPSs
-https://www.youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw
-
 
 ### JavaScript:
 https://www.codecademy.com/learn/introduction-to-javascript
