@@ -60,11 +60,11 @@ Helpful resources for your learning journey can be found here. More resources wi
 | Bootstrap | https://youtu.be/-qfEOE4vtxE; https://youtu.be/5GcQtLDGXy8; https://www.youtube.com/playlist?list=PL4cUxeGkcC9joIM91nLzd_qaH_AimmdAR|
 | Tailwind CSS: | https://youtu.be/UBOj6rqRUME; https://youtu.be/V5HYZOmkPSs; https://www.youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw|
 | JavaScript | https://www.codecademy.com/learn/introduction-to-javascript|
+| JavaScript | https://www.codecademy.com/learn/introduction-to-javascript|
 |  | |
 
 
 ### JavaScript:
-https://www.codecademy.com/learn/introduction-to-javascript
 https://www.sololearn.com/learning/1024
 https://akinolaakeem.com/hcj
 
@@ -76,6 +76,3 @@ https://youtu.be/Qqx_wzMmFeA
 ### Full Stack Web Development Tutorials:
 https://youtu.be/Q33KBiDriJY
 https://www.youtube.com/playlist?list=PLQSmIhc0GVPPhpBAC3y6xChtOz3RJ8abN
-
-| Description  | Link    |
-| :------------- | :---------- |
