@@ -61,11 +61,7 @@ Helpful resources for your learning journey can be found here. More resources wi
 | Tailwind CSS: | https://youtu.be/UBOj6rqRUME; https://youtu.be/V5HYZOmkPSs; https://www.youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw|
 | JavaScript | https://www.codecademy.com/learn/introduction-to-javascript|
 | JavaScript | https://www.sololearn.com/learning/1024 |
-|  | |
-
-
-### JavaScript:
-https://akinolaakeem.com/hcj
+| JavaScript | https://akinolaakeem.com/hcj|
 
 #### Video Links(JS):
 https://youtu.be/W6NZfCO5SIk
