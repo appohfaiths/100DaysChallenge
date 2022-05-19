@@ -4,7 +4,7 @@ I created this repo to share tips, resources and doses of motivation to help you
 
 [Join](https://join.slack.com/t/100dayschallenge2022/shared_invite/zt-10zjhpfyr-T1H_3s37GUKkoVkOWYrKLw) the Slack community for this Challenge to meet like-minded people and collaborate on projects.
 
-Don't forget to follow me on [Twitter](https://twitter.com/ivybarley) for more tech, career and lifestyle content. Also feel free to tag me in your daily projects and lessons during this Challenge.
+Don't forget to follow me on [Twitter](https://twitter.com/ivybarley) for more tech and career content. Also feel free to tag me in your daily projects and lessons during this Challenge.
 
 ## Week 1
 
