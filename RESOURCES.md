@@ -62,11 +62,7 @@ Helpful resources for your learning journey can be found here. More resources wi
 | JavaScript | https://www.codecademy.com/learn/introduction-to-javascript|
 | JavaScript | https://www.sololearn.com/learning/1024 |
 | JavaScript | https://akinolaakeem.com/hcj|
-
-#### Video Links(JS):
-https://youtu.be/W6NZfCO5SIk
-https://youtu.be/jS4aFq5-91M
-https://youtu.be/Qqx_wzMmFeA
+| JavaScript Videos | https://youtu.be/W6NZfCO5SIk; https://youtu.be/jS4aFq5-91M; https://youtu.be/Qqx_wzMmFeA|
 
 ### Full Stack Web Development Tutorials:
 https://youtu.be/Q33KBiDriJY
