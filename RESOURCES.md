@@ -63,8 +63,4 @@ Helpful resources for your learning journey can be found here. More resources wi
 | JavaScript | https://www.sololearn.com/learning/1024 |
 | JavaScript | https://akinolaakeem.com/hcj|
 | JavaScript Videos | https://youtu.be/W6NZfCO5SIk; https://youtu.be/jS4aFq5-91M; https://youtu.be/Qqx_wzMmFeA|
-| Full Stack Web Development Tutorials | https://youtu.be/Q33KBiDriJY|
-
-
-### Full Stack Web Development Tutorials:
-https://www.youtube.com/playlist?list=PLQSmIhc0GVPPhpBAC3y6xChtOz3RJ8abN
+| Full Stack Web Development Tutorials | https://youtu.be/Q33KBiDriJY; https://www.youtube.com/playlist?list=PLQSmIhc0GVPPhpBAC3y6xChtOz3RJ8abN|
