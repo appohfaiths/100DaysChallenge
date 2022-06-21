@@ -41,6 +41,7 @@ Helpful resources for your learning journey can be found here. More resources wi
 | Apache Airflow | https://1drv.ms/w/s!Agyh1QMsr6HwjiC5Zuo1Alomd5CI?e=E3NVLV |
 | Introduction to Data Engineering| https://www.kdnuggets.com/2020/12/introduction-data-engineering.html |
 | Data Engineering Zoomcamp | https://github.com/DataTalksClub/data-engineering-zoomcamp |
+| Top 100 Data Engineering interview questions| https://www.interviewquery.com/p/data-engineer-interview-questions|
 
 ## Web Development
 | Description  | Link    |
